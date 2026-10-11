@@ -1,0 +1,122 @@
+[
+  {
+    "username": "realDonaldTrump",
+    "name": "Donald Trump (Tổng thống Mỹ - Thuế & Chính sách)",
+    "category": "Politics & Policy"
+  },
+  {
+    "username": "elonmusk",
+    "name": "Elon Musk (Tesla / xAI / SpaceX)",
+    "category": "Tech & Market Mover"
+  },
+  {
+    "username": "spectatorindex",
+    "name": "The Spectator Index (Địa chính trị & Kinh tế toàn cầu)",
+    "category": "Geopolitics & Global News"
+  },
+  {
+    "username": "sentdefender",
+    "name": "OSINTdefender (Tình báo quân sự & Xung đột chiến sự)",
+    "category": "Geopolitics & Military"
+  },
+  {
+    "username": "visegrad24",
+    "name": "Visegrád 24 (Tin tức chính trị Châu Âu & Mỹ)",
+    "category": "Geopolitics"
+  },
+  {
+    "username": "Faytuks",
+    "name": "Faytuks News (Tin nóng khẩn cấp địa chính trị)",
+    "category": "Breaking News"
+  },
+  {
+    "username": "KobeissiLetter",
+    "name": "The Kobeissi Letter (Vĩ mô, Lạm phát & Lãi suất FED)",
+    "category": "Macro Economics"
+  },
+  {
+    "username": "zerohedge",
+    "name": "ZeroHedge (Tin tài chính nóng, Vĩ mô & Hàng hóa)",
+    "category": "Financial News"
+  },
+  {
+    "username": "unusual_whales",
+    "name": "Unusual Whales (Dòng tiền lớn & Chính trị gia giao dịch)",
+    "category": "Smart Money Flow"
+  },
+  {
+    "username": "charliebilello",
+    "name": "Charlie Bilello (Thống kê chu kỳ kinh tế & Thị trường)",
+    "category": "Macro Data"
+  },
+  {
+    "username": "Schuldensuehner",
+    "name": "Holger Zschaepitz (Biểu đồ vĩ mô & Bảng cân đối NHTW)",
+    "category": "Macro Charts"
+  },
+  {
+    "username": "KitcoNewsNOW",
+    "name": "Kitco NEWS (Tin tức Vàng, Kim loại quý & Quỹ SPDR Gold)",
+    "category": "Gold & Commodities"
+  },
+  {
+    "username": "PeterSchiff",
+    "name": "Peter Schiff (Chuyên gia vàng & Phân tích USD/Vĩ mô)",
+    "category": "Gold & Macro"
+  },
+  {
+    "username": "markets",
+    "name": "Bloomberg Markets (Thị trường chứng khoán, Dầu & Vàng thế giới)",
+    "category": "Global Markets"
+  },
+  {
+    "username": "saylor",
+    "name": "Michael Saylor (Chủ tịch MicroStrategy - Cá voi Bitcoin số 1)",
+    "category": "Crypto VIP Leader"
+  },
+  {
+    "username": "cz_binance",
+    "name": "Changpeng Zhao (CZ - Sáng lập Binance & Hệ sinh thái BNB)",
+    "category": "Crypto VIP Leader"
+  },
+  {
+    "username": "VitalikButerin",
+    "name": "Vitalik Buterin (Sáng lập Ethereum - Web3)",
+    "category": "Crypto VIP Leader"
+  },
+  {
+    "username": "CryptoHayes",
+    "name": "Arthur Hayes (Cựu CEO BitMEX - Chuyên gia Vĩ mô Crypto)",
+    "category": "Crypto Macro Analyst"
+  },
+  {
+    "username": "brian_armstrong",
+    "name": "Brian Armstrong (CEO Coinbase - Thể chế & Pháp lý Mỹ)",
+    "category": "Crypto Institutional"
+  },
+  {
+    "username": "whale_alert",
+    "name": "Whale Alert (Cảnh báo dịch chuyển ví cá voi khổng lồ)",
+    "category": "Crypto Onchain"
+  },
+  {
+    "username": "VietnamNewsVNS",
+    "name": "Việt Nam News (Thông tấn xã VN - Chính sách & Vĩ mô)",
+    "category": "Vietnam Macro & Policy"
+  },
+  {
+    "username": "VnExpressNet",
+    "name": "VnExpress (Tin nhanh kinh tế, doanh nghiệp & đời sống VN)",
+    "category": "Vietnam News & Economy"
+  },
+  {
+    "username": "vietnamnetvn",
+    "name": "VietNamNet (Kinh tế, chính sách & thị trường Việt Nam)",
+    "category": "Vietnam News & Policy"
+  },
+  {
+    "username": "TuoiTreNews",
+    "name": "Tuổi Trẻ News (Tin kinh tế, đầu tư & xã hội Việt Nam)",
+    "category": "Vietnam Economy"
+  }
+]

@@ -1,0 +1,15 @@
+[Unit]
+Description=Financial Assistant Telegram Bot (MCP TCBS, VNStock, Yahoo Finance, SSI)
+After=network.target vnstock-mcp.service global-finance-mcp.service
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/mcp-finance
+ExecStart=/home/ubuntu/vnstock-venv/bin/python /home/ubuntu/mcp-finance/finance_telebot.py
+Restart=always
+RestartSec=10
+EnvironmentFile=-/home/ubuntu/mcp-finance/.env
+
+[Install]
+WantedBy=multi-user.target

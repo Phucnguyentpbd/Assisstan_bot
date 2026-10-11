@@ -1,0 +1,34 @@
+# Environment & Secrets (TUYỆT ĐỐI KHÔNG COMMIT FILE .env)
+.env
+*.env
+*.env.local
+
+# Databases & Cache
+*.db
+*.sqlite
+*.sqlite3
+accounts.db
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs & Temporary files
+*.log
+logs/
+temp/
+scratch/
+sessions/
+subscribers.json
+recent_feed.json
+
+# Virtual Environments
+venv/
+.venv/
+*-venv/
+env/
+
+# IDE / System
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
